@@ -1,5 +1,3 @@
-Got it. Here's a comprehensive `README.md` file for your Math Q\&A Generation project, covering environment setup, API key configuration, and running the pipeline.
-
 ````markdown
 # Math Q&A Generation Pipeline
 
