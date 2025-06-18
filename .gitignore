@@ -1,0 +1,55 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.eggs/
+wheels/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Output and generated files
+outputs/
+results/
+*.log
+*.tmp
+*.bak
+*.out
+
+# PDF/image/ocr cache (for your project)
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.tiff
+
+# Dependency compilation
+deps.txt
+requirements.lock.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
